@@ -1,0 +1,381 @@
+Wk,Day,Date,Home,Away,Home_Pred,Away_Pred
+1.0,Fri,2022-08-05,Crystal Palace,Arsenal,1.0,0.0
+1.0,Sat,2022-08-06,Everton,Chelsea,0.0,1.0
+1.0,Sat,2022-08-06,Leeds United,Wolves,0.0,1.0
+1.0,Sat,2022-08-06,Tottenham,Southampton,3.0,0.0
+1.0,Sat,2022-08-06,Fulham,Liverpool,0.0,2.0
+1.0,Sat,2022-08-06,Bournemouth,Aston Villa,1.0,1.0
+1.0,Sat,2022-08-06,Newcastle Utd,Nott'ham Forest,2.0,0.0
+1.0,Sun,2022-08-07,West Ham,Manchester City,1.0,2.0
+1.0,Sun,2022-08-07,Manchester Utd,Brighton,2.0,1.0
+1.0,Sun,2022-08-07,Leicester City,Brentford,1.0,1.0
+2.0,Sat,2022-08-13,Aston Villa,Everton,2.0,1.0
+2.0,Sat,2022-08-13,Wolves,Fulham,1.0,0.0
+2.0,Sat,2022-08-13,Manchester City,Bournemouth,2.0,0.0
+2.0,Sat,2022-08-13,Southampton,Leeds United,1.0,1.0
+2.0,Sat,2022-08-13,Brentford,Manchester Utd,0.0,1.0
+2.0,Sat,2022-08-13,Arsenal,Leicester City,1.0,1.0
+2.0,Sat,2022-08-13,Brighton,Newcastle Utd,1.0,1.0
+2.0,Sun,2022-08-14,Chelsea,Tottenham,0.0,1.0
+2.0,Sun,2022-08-14,Nott'ham Forest,West Ham,0.0,1.0
+2.0,Mon,2022-08-15,Liverpool,Crystal Palace,1.0,0.0
+3.0,Sat,2022-08-20,Bournemouth,Arsenal,1.0,1.0
+3.0,Sat,2022-08-20,Everton,Nott'ham Forest,1.0,0.0
+3.0,Sat,2022-08-20,Crystal Palace,Aston Villa,0.0,0.0
+3.0,Sat,2022-08-20,Leicester City,Southampton,2.0,1.0
+3.0,Sat,2022-08-20,Fulham,Brentford,1.0,2.0
+3.0,Sat,2022-08-20,Tottenham,Wolves,1.0,0.0
+3.0,Sun,2022-08-21,Newcastle Utd,Manchester City,0.0,1.0
+3.0,Sun,2022-08-21,Leeds United,Chelsea,0.0,2.0
+3.0,Sun,2022-08-21,West Ham,Brighton,1.0,1.0
+3.0,Mon,2022-08-22,Manchester Utd,Liverpool,2.0,1.0
+4.0,Sat,2022-08-27,Manchester City,Crystal Palace,1.0,0.0
+4.0,Sat,2022-08-27,Brentford,Everton,1.0,0.0
+4.0,Sat,2022-08-27,Liverpool,Bournemouth,2.0,0.0
+4.0,Sat,2022-08-27,Chelsea,Leicester City,1.0,1.0
+4.0,Sat,2022-08-27,Brighton,Leeds United,1.0,1.0
+4.0,Sat,2022-08-27,Arsenal,Fulham,2.0,0.0
+4.0,Sat,2022-08-27,Southampton,Manchester Utd,0.0,2.0
+4.0,Sun,2022-08-28,Wolves,Newcastle Utd,1.0,1.0
+4.0,Sun,2022-08-28,Nott'ham Forest,Tottenham,0.0,2.0
+4.0,Sun,2022-08-28,Aston Villa,West Ham,1.0,1.0
+5.0,Tue,2022-08-30,Southampton,Chelsea,0.0,2.0
+5.0,Tue,2022-08-30,Fulham,Brighton,0.0,1.0
+5.0,Tue,2022-08-30,Leeds United,Everton,1.0,1.0
+5.0,Tue,2022-08-30,Crystal Palace,Brentford,1.0,0.0
+5.0,Wed,2022-08-31,West Ham,Tottenham,1.0,2.0
+5.0,Wed,2022-08-31,Liverpool,Newcastle Utd,2.0,0.0
+5.0,Wed,2022-08-31,Bournemouth,Wolves,0.0,1.0
+5.0,Wed,2022-08-31,Arsenal,Aston Villa,1.0,0.0
+5.0,Wed,2022-08-31,Manchester City,Nott'ham Forest,3.0,0.0
+5.0,Thu,2022-09-01,Leicester City,Manchester Utd,0.0,2.0
+6.0,Sat,2022-09-03,Newcastle Utd,Crystal Palace,1.0,1.0
+6.0,Sat,2022-09-03,Tottenham,Fulham,3.0,0.0
+6.0,Sat,2022-09-03,Aston Villa,Manchester City,0.0,2.0
+6.0,Sat,2022-09-03,Brentford,Leeds United,1.0,0.0
+6.0,Sat,2022-09-03,Nott'ham Forest,Bournemouth,0.0,1.0
+6.0,Sat,2022-09-03,Wolves,Southampton,1.0,1.0
+6.0,Sat,2022-09-03,Everton,Liverpool,1.0,1.0
+6.0,Sun,2022-09-04,Brighton,Leicester City,1.0,1.0
+6.0,Sun,2022-09-04,Manchester Utd,Arsenal,2.0,1.0
+6.0,Sun,2022-09-04,Chelsea,West Ham,1.0,0.0
+7.0,Sat,2022-09-10,Southampton,Brentford,1.0,1.0
+7.0,Sat,2022-09-10,Manchester City,Tottenham,1.0,1.0
+7.0,Sat,2022-09-10,Fulham,Chelsea,0.0,2.0
+7.0,Sat,2022-09-10,Liverpool,Wolves,1.0,0.0
+7.0,Sat,2022-09-10,Leicester City,Aston Villa,1.0,1.0
+7.0,Sat,2022-09-10,Bournemouth,Brighton,1.0,1.0
+7.0,Sun,2022-09-11,West Ham,Newcastle Utd,2.0,1.0
+7.0,Sun,2022-09-11,Arsenal,Everton,2.0,0.0
+7.0,Sun,2022-09-11,Crystal Palace,Manchester Utd,0.0,1.0
+7.0,Mon,2022-09-12,Leeds United,Nott'ham Forest,1.0,1.0
+8.0,Fri,2022-09-16,Aston Villa,Southampton,2.0,1.0
+8.0,Fri,2022-09-16,Nott'ham Forest,Fulham,1.0,0.0
+8.0,Sat,2022-09-17,Brighton,Crystal Palace,0.0,1.0
+8.0,Sat,2022-09-17,Wolves,Manchester City,0.0,2.0
+8.0,Sat,2022-09-17,Everton,West Ham,1.0,0.0
+8.0,Sat,2022-09-17,Tottenham,Leicester City,2.0,1.0
+8.0,Sat,2022-09-17,Newcastle Utd,Bournemouth,1.0,1.0
+8.0,Sun,2022-09-18,Manchester Utd,Leeds United,2.0,1.0
+8.0,Sun,2022-09-18,Chelsea,Liverpool,1.0,1.0
+8.0,Sun,2022-09-18,Brentford,Arsenal,0.0,0.0
+9.0,Sat,2022-10-01,Southampton,Everton,1.0,1.0
+9.0,Sat,2022-10-01,Manchester City,Manchester Utd,1.0,1.0
+9.0,Sat,2022-10-01,Arsenal,Tottenham,0.0,1.0
+9.0,Sat,2022-10-01,Crystal Palace,Chelsea,0.0,1.0
+9.0,Sat,2022-10-01,Fulham,Newcastle Utd,1.0,2.0
+9.0,Sat,2022-10-01,Liverpool,Brighton,2.0,0.0
+9.0,Sat,2022-10-01,Leicester City,Nott'ham Forest,2.0,0.0
+9.0,Sat,2022-10-01,West Ham,Wolves,1.0,1.0
+9.0,Sat,2022-10-01,Bournemouth,Brentford,1.0,1.0
+9.0,Sat,2022-10-01,Leeds United,Aston Villa,0.0,1.0
+10.0,Sat,2022-10-08,Crystal Palace,Leeds United,1.0,0.0
+10.0,Sat,2022-10-08,Manchester City,Southampton,3.0,0.0
+10.0,Sat,2022-10-08,Chelsea,Wolves,0.0,0.0
+10.0,Sat,2022-10-08,West Ham,Fulham,2.0,0.0
+10.0,Sat,2022-10-08,Brighton,Tottenham,0.0,2.0
+10.0,Sat,2022-10-08,Everton,Manchester Utd,0.0,2.0
+10.0,Sat,2022-10-08,Bournemouth,Leicester City,1.0,1.0
+10.0,Sat,2022-10-08,Nott'ham Forest,Aston Villa,0.0,1.0
+10.0,Sat,2022-10-08,Arsenal,Liverpool,1.0,1.0
+10.0,Sat,2022-10-08,Newcastle Utd,Brentford,1.0,1.0
+11.0,Sat,2022-10-15,Aston Villa,Chelsea,0.0,1.0
+11.0,Sat,2022-10-15,Leeds United,Arsenal,0.0,1.0
+11.0,Sat,2022-10-15,Tottenham,Everton,3.0,0.0
+11.0,Sat,2022-10-15,Liverpool,Manchester City,1.0,1.0
+11.0,Sat,2022-10-15,Southampton,West Ham,0.0,1.0
+11.0,Sat,2022-10-15,Wolves,Nott'ham Forest,1.0,0.0
+11.0,Sat,2022-10-15,Fulham,Bournemouth,1.0,1.0
+11.0,Sat,2022-10-15,Brentford,Brighton,1.0,0.0
+11.0,Sat,2022-10-15,Leicester City,Crystal Palace,1.0,1.0
+11.0,Sat,2022-10-15,Manchester Utd,Newcastle Utd,2.0,1.0
+12.0,Tue,2022-10-18,Bournemouth,Southampton,2.0,1.0
+12.0,Tue,2022-10-18,Arsenal,Manchester City,0.0,1.0
+12.0,Tue,2022-10-18,Crystal Palace,Wolves,0.0,0.0
+12.0,Tue,2022-10-18,Fulham,Aston Villa,0.0,1.0
+12.0,Tue,2022-10-18,Brighton,Nott'ham Forest,1.0,0.0
+12.0,Tue,2022-10-18,Brentford,Chelsea,0.0,1.0
+12.0,Tue,2022-10-18,Leicester City,Leeds United,1.0,1.0
+12.0,Wed,2022-10-19,Liverpool,West Ham,2.0,0.0
+12.0,Wed,2022-10-19,Manchester Utd,Tottenham,1.0,2.0
+12.0,Wed,2022-10-19,Newcastle Utd,Everton,2.0,0.0
+13.0,Sat,2022-10-22,Manchester City,Brighton,2.0,0.0
+13.0,Sat,2022-10-22,Everton,Crystal Palace,1.0,1.0
+13.0,Sat,2022-10-22,West Ham,Bournemouth,2.0,1.0
+13.0,Sat,2022-10-22,Tottenham,Newcastle Utd,3.0,1.0
+13.0,Sat,2022-10-22,Wolves,Leicester City,1.0,1.0
+13.0,Sat,2022-10-22,Leeds United,Fulham,0.0,0.0
+13.0,Sat,2022-10-22,Nott'ham Forest,Liverpool,0.0,2.0
+13.0,Sat,2022-10-22,Aston Villa,Brentford,1.0,1.0
+13.0,Sat,2022-10-22,Chelsea,Manchester Utd,0.0,1.0
+13.0,Sat,2022-10-22,Southampton,Arsenal,0.0,1.0
+14.0,Sat,2022-10-29,Fulham,Everton,1.0,1.0
+14.0,Sat,2022-10-29,Brighton,Chelsea,0.0,2.0
+14.0,Sat,2022-10-29,Liverpool,Leeds United,2.0,0.0
+14.0,Sat,2022-10-29,Bournemouth,Tottenham,0.0,2.0
+14.0,Sat,2022-10-29,Manchester Utd,West Ham,2.0,0.0
+14.0,Sat,2022-10-29,Arsenal,Nott'ham Forest,2.0,0.0
+14.0,Sat,2022-10-29,Crystal Palace,Southampton,1.0,0.0
+14.0,Sat,2022-10-29,Leicester City,Manchester City,0.0,1.0
+14.0,Sat,2022-10-29,Brentford,Wolves,0.0,0.0
+14.0,Sat,2022-10-29,Newcastle Utd,Aston Villa,1.0,1.0
+15.0,Sat,2022-11-05,Manchester City,Fulham,3.0,0.0
+15.0,Sat,2022-11-05,Nott'ham Forest,Brentford,0.0,1.0
+15.0,Sat,2022-11-05,Tottenham,Liverpool,2.0,1.0
+15.0,Sat,2022-11-05,Leeds United,Bournemouth,0.0,1.0
+15.0,Sat,2022-11-05,Chelsea,Arsenal,1.0,0.0
+15.0,Sat,2022-11-05,West Ham,Crystal Palace,1.0,1.0
+15.0,Sat,2022-11-05,Aston Villa,Manchester Utd,0.0,2.0
+15.0,Sat,2022-11-05,Southampton,Newcastle Utd,1.0,1.0
+15.0,Sat,2022-11-05,Wolves,Brighton,0.0,1.0
+15.0,Sat,2022-11-05,Everton,Leicester City,1.0,1.0
+16.0,Sat,2022-11-12,Nott'ham Forest,Crystal Palace,0.0,1.0
+16.0,Sat,2022-11-12,Manchester City,Brentford,2.0,0.0
+16.0,Sat,2022-11-12,Wolves,Arsenal,0.0,1.0
+16.0,Sat,2022-11-12,Newcastle Utd,Chelsea,0.0,1.0
+16.0,Sat,2022-11-12,Fulham,Manchester Utd,0.0,3.0
+16.0,Sat,2022-11-12,Bournemouth,Everton,2.0,1.0
+16.0,Sat,2022-11-12,Brighton,Aston Villa,0.0,1.0
+16.0,Sat,2022-11-12,Liverpool,Southampton,3.0,0.0
+16.0,Sat,2022-11-12,Tottenham,Leeds United,2.0,1.0
+16.0,Sat,2022-11-12,West Ham,Leicester City,2.0,1.0
+17.0,Mon,2022-12-26,Aston Villa,Liverpool,1.0,2.0
+17.0,Mon,2022-12-26,Arsenal,West Ham,1.0,0.0
+17.0,Mon,2022-12-26,Leicester City,Newcastle Utd,1.0,1.0
+17.0,Mon,2022-12-26,Southampton,Brighton,0.0,1.0
+17.0,Mon,2022-12-26,Brentford,Tottenham,0.0,1.0
+17.0,Mon,2022-12-26,Leeds United,Manchester City,0.0,2.0
+17.0,Mon,2022-12-26,Manchester Utd,Nott'ham Forest,3.0,0.0
+17.0,Mon,2022-12-26,Crystal Palace,Fulham,1.0,0.0
+17.0,Mon,2022-12-26,Chelsea,Bournemouth,1.0,0.0
+17.0,Mon,2022-12-26,Everton,Wolves,0.0,0.0
+18.0,Sat,2022-12-31,Newcastle Utd,Leeds United,1.0,1.0
+18.0,Sat,2022-12-31,West Ham,Brentford,2.0,1.0
+18.0,Sat,2022-12-31,Nott'ham Forest,Chelsea,0.0,2.0
+18.0,Sat,2022-12-31,Bournemouth,Crystal Palace,1.0,1.0
+18.0,Sat,2022-12-31,Manchester City,Everton,3.0,0.0
+18.0,Sat,2022-12-31,Wolves,Manchester Utd,0.0,2.0
+18.0,Sat,2022-12-31,Fulham,Southampton,1.0,1.0
+18.0,Sat,2022-12-31,Liverpool,Leicester City,2.0,0.0
+18.0,Sat,2022-12-31,Tottenham,Aston Villa,2.0,1.0
+18.0,Sat,2022-12-31,Brighton,Arsenal,0.0,1.0
+19.0,Mon,2023-01-02,Everton,Brighton,1.0,1.0
+19.0,Mon,2023-01-02,Southampton,Nott'ham Forest,1.0,0.0
+19.0,Mon,2023-01-02,Aston Villa,Wolves,0.0,0.0
+19.0,Mon,2023-01-02,Arsenal,Newcastle Utd,1.0,0.0
+19.0,Mon,2023-01-02,Manchester Utd,Bournemouth,2.0,1.0
+19.0,Mon,2023-01-02,Leeds United,West Ham,0.0,1.0
+19.0,Mon,2023-01-02,Chelsea,Manchester City,0.0,1.0
+19.0,Mon,2023-01-02,Leicester City,Fulham,2.0,0.0
+19.0,Mon,2023-01-02,Brentford,Liverpool,0.0,1.0
+19.0,Mon,2023-01-02,Crystal Palace,Tottenham,0.0,1.0
+20.0,Sat,2023-01-14,Manchester Utd,Manchester City,1.0,2.0
+20.0,Sat,2023-01-14,Everton,Southampton,1.0,1.0
+20.0,Sat,2023-01-14,Aston Villa,Leeds United,1.0,1.0
+20.0,Sat,2023-01-14,Nott'ham Forest,Leicester City,0.0,2.0
+20.0,Sat,2023-01-14,Brighton,Liverpool,0.0,2.0
+20.0,Sat,2023-01-14,Newcastle Utd,Fulham,1.0,0.0
+20.0,Sat,2023-01-14,Brentford,Bournemouth,1.0,0.0
+20.0,Sat,2023-01-14,Tottenham,Arsenal,2.0,0.0
+20.0,Sat,2023-01-14,Wolves,West Ham,0.0,0.0
+20.0,Sat,2023-01-14,Chelsea,Crystal Palace,1.0,0.0
+21.0,Sat,2023-01-21,Leeds United,Brentford,0.0,1.0
+21.0,Sat,2023-01-21,Manchester City,Wolves,1.0,0.0
+21.0,Sat,2023-01-21,Arsenal,Manchester Utd,0.0,1.0
+21.0,Sat,2023-01-21,Fulham,Tottenham,0.0,3.0
+21.0,Sat,2023-01-21,Bournemouth,Nott'ham Forest,1.0,0.0
+21.0,Sat,2023-01-21,Southampton,Aston Villa,0.0,1.0
+21.0,Sat,2023-01-21,West Ham,Everton,3.0,1.0
+21.0,Sat,2023-01-21,Crystal Palace,Newcastle Utd,1.0,0.0
+21.0,Sat,2023-01-21,Leicester City,Brighton,1.0,0.0
+21.0,Sat,2023-01-21,Liverpool,Chelsea,0.0,0.0
+22.0,Sat,2023-02-04,Wolves,Liverpool,0.0,1.0
+22.0,Sat,2023-02-04,Nott'ham Forest,Leeds United,0.0,1.0
+22.0,Sat,2023-02-04,Everton,Arsenal,1.0,1.0
+22.0,Sat,2023-02-04,Manchester Utd,Crystal Palace,2.0,1.0
+22.0,Sat,2023-02-04,Tottenham,Manchester City,1.0,1.0
+22.0,Sat,2023-02-04,Aston Villa,Leicester City,1.0,1.0
+22.0,Sat,2023-02-04,Newcastle Utd,West Ham,1.0,0.0
+22.0,Sat,2023-02-04,Chelsea,Fulham,1.0,0.0
+22.0,Sat,2023-02-04,Brighton,Bournemouth,1.0,1.0
+22.0,Sat,2023-02-04,Brentford,Southampton,1.0,0.0
+23.0,Sat,2023-02-11,Bournemouth,Newcastle Utd,1.0,1.0
+23.0,Sat,2023-02-11,Southampton,Wolves,0.0,1.0
+23.0,Sat,2023-02-11,Liverpool,Everton,3.0,0.0
+23.0,Sat,2023-02-11,Fulham,Nott'ham Forest,1.0,1.0
+23.0,Sat,2023-02-11,Leicester City,Tottenham,0.0,1.0
+23.0,Sat,2023-02-11,Manchester City,Aston Villa,2.0,0.0
+23.0,Sat,2023-02-11,Crystal Palace,Brighton,1.0,0.0
+23.0,Sat,2023-02-11,Leeds United,Manchester Utd,0.0,2.0
+23.0,Sat,2023-02-11,West Ham,Chelsea,0.0,1.0
+23.0,Sat,2023-02-11,Arsenal,Brentford,1.0,0.0
+24.0,Sat,2023-02-18,Wolves,Bournemouth,1.0,1.0
+24.0,Sat,2023-02-18,Tottenham,West Ham,2.0,0.0
+24.0,Sat,2023-02-18,Chelsea,Southampton,2.0,0.0
+24.0,Sat,2023-02-18,Brighton,Fulham,1.0,0.0
+24.0,Sat,2023-02-18,Newcastle Utd,Liverpool,1.0,1.0
+24.0,Sat,2023-02-18,Manchester Utd,Leicester City,2.0,1.0
+24.0,Sat,2023-02-18,Brentford,Crystal Palace,0.0,0.0
+24.0,Sat,2023-02-18,Nott'ham Forest,Manchester City,0.0,2.0
+24.0,Sat,2023-02-18,Everton,Leeds United,1.0,1.0
+24.0,Sat,2023-02-18,Aston Villa,Arsenal,1.0,1.0
+25.0,Sat,2023-02-25,Leeds United,Southampton,1.0,1.0
+25.0,Sat,2023-02-25,Tottenham,Chelsea,1.0,1.0
+25.0,Sat,2023-02-25,Leicester City,Arsenal,1.0,1.0
+25.0,Sat,2023-02-25,Crystal Palace,Liverpool,0.0,1.0
+25.0,Sat,2023-02-25,Manchester Utd,Brentford,2.0,1.0
+25.0,Sat,2023-02-25,West Ham,Nott'ham Forest,2.0,0.0
+25.0,Sat,2023-02-25,Everton,Aston Villa,1.0,1.0
+25.0,Sat,2023-02-25,Fulham,Wolves,0.0,1.0
+25.0,Sat,2023-02-25,Bournemouth,Manchester City,0.0,2.0
+25.0,Sat,2023-02-25,Newcastle Utd,Brighton,1.0,0.0
+26.0,Sat,2023-03-04,Chelsea,Leeds United,1.0,0.0
+26.0,Sat,2023-03-04,Southampton,Leicester City,1.0,1.0
+26.0,Sat,2023-03-04,Nott'ham Forest,Everton,1.0,1.0
+26.0,Sat,2023-03-04,Brighton,West Ham,1.0,1.0
+26.0,Sat,2023-03-04,Arsenal,Bournemouth,1.0,0.0
+26.0,Sat,2023-03-04,Brentford,Fulham,1.0,0.0
+26.0,Sat,2023-03-04,Aston Villa,Crystal Palace,1.0,1.0
+26.0,Sat,2023-03-04,Wolves,Tottenham,0.0,2.0
+26.0,Sat,2023-03-04,Liverpool,Manchester Utd,1.0,1.0
+26.0,Sat,2023-03-04,Manchester City,Newcastle Utd,2.0,0.0
+27.0,Sat,2023-03-11,Fulham,Arsenal,0.0,1.0
+27.0,Sat,2023-03-11,Leicester City,Chelsea,0.0,1.0
+27.0,Sat,2023-03-11,Crystal Palace,Manchester City,0.0,1.0
+27.0,Sat,2023-03-11,Tottenham,Nott'ham Forest,3.0,0.0
+27.0,Sat,2023-03-11,Manchester Utd,Southampton,3.0,1.0
+27.0,Sat,2023-03-11,West Ham,Aston Villa,1.0,1.0
+27.0,Sat,2023-03-11,Leeds United,Brighton,0.0,1.0
+27.0,Sat,2023-03-11,Bournemouth,Liverpool,1.0,2.0
+27.0,Sat,2023-03-11,Newcastle Utd,Wolves,0.0,0.0
+27.0,Sat,2023-03-11,Everton,Brentford,1.0,1.0
+28.0,Sat,2023-03-18,Brentford,Leicester City,1.0,1.0
+28.0,Sat,2023-03-18,Chelsea,Everton,2.0,0.0
+28.0,Sat,2023-03-18,Manchester City,West Ham,2.0,0.0
+28.0,Sat,2023-03-18,Arsenal,Crystal Palace,1.0,0.0
+28.0,Sat,2023-03-18,Aston Villa,Bournemouth,1.0,1.0
+28.0,Sat,2023-03-18,Brighton,Manchester Utd,0.0,2.0
+28.0,Sat,2023-03-18,Wolves,Leeds United,1.0,1.0
+28.0,Sat,2023-03-18,Nott'ham Forest,Newcastle Utd,1.0,1.0
+28.0,Sat,2023-03-18,Liverpool,Fulham,2.0,0.0
+28.0,Sat,2023-03-18,Southampton,Tottenham,0.0,2.0
+29.0,Sat,2023-04-01,Arsenal,Leeds United,1.0,0.0
+29.0,Sat,2023-04-01,Nott'ham Forest,Wolves,0.0,1.0
+29.0,Sat,2023-04-01,West Ham,Southampton,3.0,1.0
+29.0,Sat,2023-04-01,Bournemouth,Fulham,1.0,0.0
+29.0,Sat,2023-04-01,Manchester City,Liverpool,2.0,1.0
+29.0,Sat,2023-04-01,Brighton,Brentford,1.0,1.0
+29.0,Sat,2023-04-01,Chelsea,Aston Villa,1.0,0.0
+29.0,Sat,2023-04-01,Newcastle Utd,Manchester Utd,0.0,1.0
+29.0,Sat,2023-04-01,Crystal Palace,Leicester City,1.0,1.0
+29.0,Sat,2023-04-01,Everton,Tottenham,0.0,1.0
+30.0,Sat,2023-04-08,Wolves,Chelsea,0.0,1.0
+30.0,Sat,2023-04-08,Southampton,Manchester City,0.0,2.0
+30.0,Sat,2023-04-08,Liverpool,Arsenal,1.0,0.0
+30.0,Sat,2023-04-08,Aston Villa,Nott'ham Forest,1.0,0.0
+30.0,Sat,2023-04-08,Fulham,West Ham,0.0,1.0
+30.0,Sat,2023-04-08,Tottenham,Brighton,2.0,0.0
+30.0,Sat,2023-04-08,Brentford,Newcastle Utd,1.0,0.0
+30.0,Sat,2023-04-08,Leeds United,Crystal Palace,0.0,1.0
+30.0,Sat,2023-04-08,Manchester Utd,Everton,3.0,1.0
+30.0,Sat,2023-04-08,Leicester City,Bournemouth,1.0,1.0
+31.0,Sat,2023-04-15,Southampton,Crystal Palace,0.0,1.0
+31.0,Sat,2023-04-15,Tottenham,Bournemouth,2.0,1.0
+31.0,Sat,2023-04-15,Aston Villa,Newcastle Utd,1.0,1.0
+31.0,Sat,2023-04-15,Everton,Fulham,1.0,0.0
+31.0,Sat,2023-04-15,West Ham,Arsenal,1.0,1.0
+31.0,Sat,2023-04-15,Manchester City,Leicester City,2.0,1.0
+31.0,Sat,2023-04-15,Chelsea,Brighton,1.0,0.0
+31.0,Sat,2023-04-15,Leeds United,Liverpool,0.0,2.0
+31.0,Sat,2023-04-15,Wolves,Brentford,1.0,1.0
+31.0,Sat,2023-04-15,Nott'ham Forest,Manchester Utd,0.0,2.0
+32.0,Sat,2023-04-22,Arsenal,Southampton,2.0,0.0
+32.0,Sat,2023-04-22,Leicester City,Wolves,1.0,0.0
+32.0,Sat,2023-04-22,Fulham,Leeds United,1.0,2.0
+32.0,Sat,2023-04-22,Liverpool,Nott'ham Forest,3.0,0.0
+32.0,Sat,2023-04-22,Manchester Utd,Chelsea,0.0,1.0
+32.0,Sat,2023-04-22,Newcastle Utd,Tottenham,0.0,1.0
+32.0,Sat,2023-04-22,Brentford,Aston Villa,0.0,0.0
+32.0,Sat,2023-04-22,Crystal Palace,Everton,1.0,0.0
+32.0,Sat,2023-04-22,Brighton,Manchester City,0.0,2.0
+32.0,Sat,2023-04-22,Bournemouth,West Ham,1.0,1.0
+33.0,Tue,2023-04-25,Aston Villa,Fulham,1.0,0.0
+33.0,Tue,2023-04-25,Everton,Newcastle Utd,1.0,1.0
+33.0,Tue,2023-04-25,Leeds United,Leicester City,0.0,2.0
+33.0,Tue,2023-04-25,Tottenham,Manchester Utd,1.0,1.0
+33.0,Tue,2023-04-25,Wolves,Crystal Palace,0.0,1.0
+33.0,Tue,2023-04-25,West Ham,Liverpool,1.0,2.0
+33.0,Tue,2023-04-25,Nott'ham Forest,Brighton,0.0,1.0
+33.0,Wed,2023-04-26,Southampton,Bournemouth,1.0,1.0
+33.0,Wed,2023-04-26,Chelsea,Brentford,1.0,0.0
+33.0,Wed,2023-04-26,Manchester City,Arsenal,2.0,0.0
+34.0,Sat,2023-04-29,Arsenal,Chelsea,0.0,1.0
+34.0,Sat,2023-04-29,Brighton,Wolves,0.0,1.0
+34.0,Sat,2023-04-29,Newcastle Utd,Southampton,2.0,0.0
+34.0,Sat,2023-04-29,Manchester Utd,Aston Villa,2.0,1.0
+34.0,Sat,2023-04-29,Brentford,Nott'ham Forest,1.0,0.0
+34.0,Sat,2023-04-29,Bournemouth,Leeds United,1.0,1.0
+34.0,Sat,2023-04-29,Liverpool,Tottenham,1.0,1.0
+34.0,Sat,2023-04-29,Fulham,Manchester City,0.0,2.0
+34.0,Sat,2023-04-29,Crystal Palace,West Ham,1.0,0.0
+34.0,Sat,2023-04-29,Leicester City,Everton,2.0,0.0
+35.0,Sat,2023-05-06,Tottenham,Crystal Palace,2.0,1.0
+35.0,Sat,2023-05-06,Brighton,Everton,1.0,1.0
+35.0,Sat,2023-05-06,Wolves,Aston Villa,0.0,1.0
+35.0,Sat,2023-05-06,Nott'ham Forest,Southampton,1.0,1.0
+35.0,Sat,2023-05-06,Liverpool,Brentford,2.0,0.0
+35.0,Sat,2023-05-06,West Ham,Manchester Utd,0.0,2.0
+35.0,Sat,2023-05-06,Manchester City,Leeds United,2.0,0.0
+35.0,Sat,2023-05-06,Fulham,Leicester City,1.0,2.0
+35.0,Sat,2023-05-06,Newcastle Utd,Arsenal,1.0,1.0
+35.0,Sat,2023-05-06,Bournemouth,Chelsea,0.0,1.0
+36.0,Sat,2023-05-13,Aston Villa,Tottenham,0.0,2.0
+36.0,Sat,2023-05-13,Chelsea,Nott'ham Forest,1.0,0.0
+36.0,Sat,2023-05-13,Brentford,West Ham,1.0,0.0
+36.0,Sat,2023-05-13,Leicester City,Liverpool,1.0,1.0
+36.0,Sat,2023-05-13,Arsenal,Brighton,1.0,0.0
+36.0,Sat,2023-05-13,Manchester Utd,Wolves,1.0,0.0
+36.0,Sat,2023-05-13,Leeds United,Newcastle Utd,0.0,1.0
+36.0,Sat,2023-05-13,Southampton,Fulham,1.0,0.0
+36.0,Sat,2023-05-13,Crystal Palace,Bournemouth,1.0,0.0
+36.0,Sat,2023-05-13,Everton,Manchester City,0.0,1.0
+37.0,Sat,2023-05-20,Bournemouth,Manchester Utd,0.0,2.0
+37.0,Sat,2023-05-20,Tottenham,Brentford,2.0,1.0
+37.0,Sat,2023-05-20,Newcastle Utd,Leicester City,1.0,1.0
+37.0,Sat,2023-05-20,Liverpool,Aston Villa,1.0,0.0
+37.0,Sat,2023-05-20,Nott'ham Forest,Arsenal,0.0,1.0
+37.0,Sat,2023-05-20,Wolves,Everton,1.0,1.0
+37.0,Sat,2023-05-20,Manchester City,Chelsea,0.0,1.0
+37.0,Sat,2023-05-20,West Ham,Leeds United,2.0,1.0
+37.0,Sat,2023-05-20,Brighton,Southampton,1.0,1.0
+37.0,Sat,2023-05-20,Fulham,Crystal Palace,0.0,2.0
+38.0,Sun,2023-05-28,Leeds United,Tottenham,0.0,2.0
+38.0,Sun,2023-05-28,Brentford,Manchester City,0.0,1.0
+38.0,Sun,2023-05-28,Arsenal,Wolves,1.0,0.0
+38.0,Sun,2023-05-28,Leicester City,West Ham,1.0,0.0
+38.0,Sun,2023-05-28,Aston Villa,Brighton,1.0,1.0
+38.0,Sun,2023-05-28,Everton,Bournemouth,1.0,1.0
+38.0,Sun,2023-05-28,Chelsea,Newcastle Utd,1.0,0.0
+38.0,Sun,2023-05-28,Crystal Palace,Nott'ham Forest,1.0,0.0
+38.0,Sun,2023-05-28,Manchester Utd,Fulham,3.0,0.0
+38.0,Sun,2023-05-28,Southampton,Liverpool,0.0,2.0
